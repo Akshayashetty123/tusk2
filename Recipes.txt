@@ -4,5 +4,8 @@ Welcome to Telusko Kithen
 
 Kheer
 Pasta
+
+Beans
+Pizza
 Chicken Fry
 ThankYou
