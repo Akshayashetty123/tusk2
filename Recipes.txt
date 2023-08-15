@@ -4,6 +4,10 @@ Welcome to Telusko Kithen
 
 Kheer
 Pasta
+Carrot
+Beans
+Pizza
 Chicken Fry
 ThankYou
+Done my Changes
 Final Copy
